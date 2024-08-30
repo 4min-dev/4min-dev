@@ -149,7 +149,7 @@
       • Redux-Toolkit;
       • RTK-Query;
 
-<h1 align="Center">Благодарю за проявленый интерес к моему гитхаб профилю, если же я Вас заинтересовал - всегда открыт к диалогу</h1>
+<h1 align="Center">Всегда открыт к диалогу :speech_balloon:</h1>
 
 <h3>https://t.me/fomin_dev - Telegram (Предпочтительный вариант связи)</h3>
 <h3>https://vk.com/4min_dev - VK</h3>
