@@ -39,7 +39,7 @@
 В моих репозиториях Вы можете найти множество пет-проектов, отображающих мой стек и подход к разработке на какой то определенный момент времени,
 для более простой навигации я собрал их вместе:
 
-- JSON-BLOG | [V1](https://github.com/4min-dev/JSON-BLOG-V1), [Review](https://youtu.be/IribWafhZos) | [V2](https://github.com/4min-dev/JSON-BLOG-V2), [Review](https://youtu.be/IribWafhZos)
+- JSON-BLOG | [V1](https://github.com/4min-dev/JSON-BLOG-V1), [Review](https://youtu.be/IribWafhZos) | [V2](https://github.com/4min-dev/JSON-BLOG-V2), [Review](https://youtu.be/OgwTnhlGWoc)
 
       JSON-BLOG - это крупный проект, состоящий их двух итоговых версий.
 
