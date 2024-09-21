@@ -80,7 +80,7 @@
       • MongoDB;
       • Mongoose;
       • Multer;
-      • Cookie-parse;
+      • Cookie-parser;
       • Jsonwebtoken;
       • Cors.
 
