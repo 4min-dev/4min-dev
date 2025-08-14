@@ -153,4 +153,3 @@
 <h3>https://t.me/fomin_dev - Telegram (Предпочтительный вариант связи)</h3>
 <h3>sadgerondo@gmail.com - Почта</h3>
 <h3>rondo.dolo@bk.ru - Резервная почта</h3>
-<h3>https://git.wizardstech.ru/4min-dev - Gitlab</h3>
