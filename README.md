@@ -21,9 +21,11 @@
 ### 🚀 Избранные проекты
 | Проект | Описание | Стек | Ссылка |
 |--------|-----------|------|--------|
-| **Hotdrop-bot** | Telegram-бот для автоматизации публикаций и уведомлений | Node.js, Telegram API | [GitHub](https://github.com/4min-dev/Hotdrop-bot) |
-| **Bonsai-bot** | Интерактивный бот-помощник с настройками | Node.js, Express | [GitHub](https://github.com/4min-dev/Bonsai-bot) |
-| **Video-Editor** | Веб-интерфейс для редактирования видео и предпросмотра | React, TypeScript, Tailwind | [GitHub](https://github.com/4min-dev/Video-Editor) |
+| **Hotdrop-bot** | Telegram-бот для автоматизации публикаций и уведомлений | Telegram Api, React, Redux-toolkit, RTK-Query, TypeScript, SCSS, Webpack  | [GitHub](https://github.com/4min-dev/Hotdrop-bot) |
+| **Video-Editor** | Веб-интерфейс для редактирования видео и предпросмотра | React, TypeScript, Webpack  | [GitHub](https://github.com/4min-dev/Video-Editor) |
+| **Sovet-blogerov** | Многостраничный сервис для организации "Совет блогеров" | HTML, CSS, JS | [GitHub](https://github.com/4min-dev/Sovet-Blogerov) |
+| **Dobraya Imperia** | Многостраничный сервис для волонтёрской организации "Империя добра" | React, JS, SCSS, Vite, Docker, Jest | [GitHub](https://github.com/4min-dev/DobrayaImperia-website) |
+| **Mstudyai Vercel** | Сервер для авторизации, авторизации и аутентификации юзеров для ИИ сервиса обучения "Mstudyai" | Node, Express, MongoDB | [GitHub](https://github.com/4min-dev/mstudyai_vercel) |
 
 ---
 
