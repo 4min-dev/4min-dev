@@ -1,33 +1,33 @@
-<div align="center">
-  <img src="https://github.com/4min-dev/4min-dev-logo/blob/main/coldStyle.gif" alt="4min_dev"/>
-</div>
+# 👋 Привет! Я фронтенд-разработчик на React
 
-<hr/>
+Создаю современные веб-приложения с использованием **React**, **Redux Toolkit**, **TypeScript** и **REST API**.  
+Люблю писать чистый, понятный код и делать интерфейсы, которые реально удобны пользователям.
 
-<h1 align="center"><a href="https://github.com/4min-dev">4min_dev</a> приветствует тебя 🦝</h1>
+🎯 Сейчас ищу команду, где смогу применять и развивать навыки фронтенда,  
+участвовать в командных проектах и приносить ощутимую пользу продукту.
 
-<h2>Технологический стек :man_technologist:</h2>
-<table>
-  <tr>
-    <td><img width="52" height="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /></td>
-    <td><img width="52" height="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /></td>
-    <td><img width="52" height="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /></td>
-    <td><img width="52" height="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /></td>
-    <td><img width="52" height="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /></td>
-    <td><img width="52" height="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" /></td>
-    <td><img width="52" height="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" /></td>
-    <td><img width="52" height="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" /></td>
-    <td><img width="52" height="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" /></td>
-    <td><img width="52" height="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original-wordmark.svg" /></td>
-    <td><img width="52" height="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" /></td>
-    <td><img width="52" height="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" /></td>
-    <td><img width="52" height="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" /></td>
-    <td><img width="52" height="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webpack/webpack-original.svg" /></td>
-  </tr>
-</table>
+---
 
-<h1 align="Center">Всегда открыт к диалогу :speech_balloon:</h1>
+### 🧩 Мой стек
+- React, Next, Redux Toolkit, Zustand  
+- TypeScript, JavaScript (ES6+)  
+- HTML5, CSS3, SCSS, Tailwind  
+- Node.js, Express (для pet/fullstack проектов)  
+- REST API, Telegram API  
+- Git, npm, Vite  
 
-<h3>https://t.me/fomin_dev - Telegram (Предпочтительный вариант связи)</h3>
-<h3>sadgerondo@gmail.com - Почта</h3>
-<h3>rondo.dolo@bk.ru - Резервная почта</h3>
+---
+
+### 🚀 Избранные проекты
+| Проект | Описание | Стек | Ссылка |
+|--------|-----------|------|--------|
+| **Hotdrop-bot** | Telegram-бот для автоматизации публикаций и уведомлений | Node.js, Telegram API | [GitHub](https://github.com/4min-dev/Hotdrop-bot) |
+| **Bonsai-bot** | Интерактивный бот-помощник с настройками | Node.js, Express | [GitHub](https://github.com/4min-dev/Bonsai-bot) |
+| **Video-Editor** | Веб-интерфейс для редактирования видео и предпросмотра | React, TypeScript, Tailwind | [GitHub](https://github.com/4min-dev/Video-Editor) |
+
+---
+
+📫 **Контакты**  
+Telegram: [@fomin_dev](https://t.me/fomin_dev)  
+Email: sadgerondo@gmail.com  
+GitHub: [github.com/4min-dev](https://github.com/4min-dev)
