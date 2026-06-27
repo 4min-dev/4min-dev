@@ -1,20 +1,13 @@
 # 👋 Привет! Я фронтенд-разработчик на React
 
-Создаю современные веб-приложения с использованием **React**, **Redux Toolkit**, **TypeScript** и **REST API**.  
-Люблю писать чистый, понятный код и делать интерфейсы, которые реально удобны пользователям.
-
-🎯 Сейчас ищу команду, где смогу применять и развивать навыки фронтенда,  
-участвовать в командных проектах и приносить ощутимую пользу продукту.
-
+Создаю современные веб-приложения с использованием **React/Next**, **Redux**, **TypeScript**.  
 ---
 
 ### 🧩 Мой стек
-- React, Next, Redux Toolkit, Zustand  
-- TypeScript, JavaScript (ES6+)  
-- HTML5, CSS3, SCSS, Tailwind  
-- Node.js, Express (для pet/fullstack проектов)  
-- REST API, Telegram API  
-- Git, npm, Vite  
+- React, Next, Redux,
+- TypeScript, JavaScript, 
+- SCSS, Tailwind,
+- Node, Nest Express.
 
 ---
 
