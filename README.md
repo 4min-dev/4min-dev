@@ -4,7 +4,7 @@
 ---
 
 ### 🧩 Мой стек
-- React, Next, Redux,
+- React, Next.js, Redux,
 - TypeScript, JavaScript, 
 - SCSS, Tailwind,
 - Node.js, Nest, Express.js
