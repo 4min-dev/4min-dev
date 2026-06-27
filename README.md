@@ -7,7 +7,7 @@
 - React, Next, Redux,
 - TypeScript, JavaScript, 
 - SCSS, Tailwind,
-- Node, Nest Express.
+- Node, Nest, Express.
 
 ---
 
